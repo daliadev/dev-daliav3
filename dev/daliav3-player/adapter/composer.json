@@ -1,0 +1,10 @@
+{
+    "name": "n.beurion/adapter",
+    "type": "sandbox",
+    "autoload": {
+    	"psr-4": {
+    		"App\\": "app"
+    	}
+    },
+    "require": {}
+}

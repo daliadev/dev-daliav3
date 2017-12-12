@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?PowerDesigner AppLocale="UTF16" ID="{6379F068-4C05-4E2B-B38A-90109216B15E}" Label="" LastModificationDate="1469172566" Name="DaliaV3_bdd" Objects="3" Symbols="1" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" signature="PRJ_MODEL_XML" version="15.1.0.2850"?>
+<?PowerDesigner AppLocale="UTF16" ID="{6379F068-4C05-4E2B-B38A-90109216B15E}" Label="" LastModificationDate="1469172709" Name="Dalia-v3-bdd" Objects="3" Symbols="1" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" signature="PRJ_MODEL_XML" version="15.1.0.2850"?>
 <!-- Veuillez ne pas modifier ce fichier -->
 
 <Model xmlns:a="attribute" xmlns:c="collection" xmlns:o="object">
@@ -8,12 +8,26 @@
 <c:Children>
 <o:Project Id="o2">
 <a:ObjectID>6379F068-4C05-4E2B-B38A-90109216B15E</a:ObjectID>
-<a:Name>DaliaV3_bdd</a:Name>
-<a:Code>DaliaV3_bdd</a:Code>
+<a:Name>Dalia-v3-bdd</a:Name>
+<a:Code>Dalia-v3-bdd</a:Code>
 <a:CreationDate>1464959404</a:CreationDate>
 <a:Creator>n.beurion</a:Creator>
-<a:ModificationDate>1469172559</a:ModificationDate>
+<a:ModificationDate>1469172693</a:ModificationDate>
 <a:Modifier>n.beurion</a:Modifier>
+<a:PackageOptionsText>[FolderOptions]
+
+[FolderOptions\Project Objects]
+GenerationCheckModel=Yes
+GenerationPath=
+GenerationOptions=
+GenerationTasks=
+GenerationTargets=
+GenerationSelections=
+RbldDeplinkFile=Yes
+RbldDeplinkGene=Yes
+RbldDeplinkRefr=Yes
+RbldDeplinkMapp=Yes
+RbldDeplinkOpnm=Yes</a:PackageOptionsText>
 <a:ModelOptionsText>[ModelOptions]
 
 [ModelOptions\Prj options]
@@ -169,11 +183,11 @@ ConvTablePath=%_HOME%\Fichiers de ressources\Tables de conversion</a:ModelOption
 <c:ProjectDiagrams>
 <o:ProjectDiagram Id="o3">
 <a:ObjectID>B99A9993-1EB8-44E0-A360-4ABECA50BCC1</a:ObjectID>
-<a:Name>Diagramme_1</a:Name>
-<a:Code>Diagramme_1</a:Code>
+<a:Name>Diagrammeglobal</a:Name>
+<a:Code>Diagrammeglobal</a:Code>
 <a:CreationDate>1464959404</a:CreationDate>
 <a:Creator>n.beurion</a:Creator>
-<a:ModificationDate>1464959404</a:ModificationDate>
+<a:ModificationDate>1469172709</a:ModificationDate>
 <a:Modifier>n.beurion</a:Modifier>
 <a:DisplayPreferences>[DisplayPreferences]
 
